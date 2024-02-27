@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9dzpb3HndkPYyT2OsD91nCWXCyDCf3Xxs4fljN77dE62RA5tMj6EAHSSJpUtDhEDCzrsOa4QM4xCcECJCLpJjw==",
+  "dgSpecHash": "JAeIlhmanGq65QsZ2IdtO1MsmarDt0NEJzj9Ab4q/mYIm2vkeIjnMeX4v0wr/hFr41mTfAjfek+pLZjN0S+DPg==",
   "success": true,
   "projectFilePath": "D:\\Devops\\DemoJenkins\\JenkinsDemo\\FirstTestProject\\FirstTestProject.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
